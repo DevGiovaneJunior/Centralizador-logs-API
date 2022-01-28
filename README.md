@@ -1,0 +1,1 @@
+# Centralizador-logs-API
