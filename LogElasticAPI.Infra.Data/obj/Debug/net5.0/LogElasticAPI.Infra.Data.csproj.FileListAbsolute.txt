@@ -1,0 +1,17 @@
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\LogElasticAPI.Infra.Data.deps.json
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\LogElasticAPI.Infra.Data.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\ref\LogElasticAPI.Infra.Data.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\LogElasticAPI.Infra.Data.pdb
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\LogElasticAPI.Domain.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\bin\Debug\net5.0\LogElasticAPI.Domain.pdb
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.csproj.CopyComplete
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\ref\LogElasticAPI.Infra.Data.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Infra.Data\obj\Debug\net5.0\LogElasticAPI.Infra.Data.pdb

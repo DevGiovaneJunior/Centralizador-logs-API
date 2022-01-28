@@ -1,0 +1,11 @@
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\bin\Debug\net5.0\LogElasticAPI.Domain.deps.json
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\bin\Debug\net5.0\LogElasticAPI.Domain.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\bin\Debug\net5.0\ref\LogElasticAPI.Domain.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\bin\Debug\net5.0\LogElasticAPI.Domain.pdb
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\ref\LogElasticAPI.Domain.dll
+C:\Users\ACT\Documents\Projects\LogElasticAPI\LogElasticAPI.Domain\obj\Debug\net5.0\LogElasticAPI.Domain.pdb

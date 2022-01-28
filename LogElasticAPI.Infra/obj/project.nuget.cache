@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrMd+9RApeN0sjI+mqyMuc8/uomKyu5HlU7eDHiciaEcKAneZ5aqgPGB/PQeVABD4+rFajGKEige1vpYkQCTgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACT\\Documents\\Projects\\LogElasticAPI\\LogElasticAPI.Infra\\LogElasticAPI.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

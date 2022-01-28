@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxXp/ZV0WBv4z/YSw/sC6Bm3ft3pKkwlZq4DIdm7FFXBB0dzjl/1bUoCF+mBO2FLQrcM7iK9oEmsk/OzytUs1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACT\\Documents\\Projects\\LogElasticAPI\\LogElasticAPI.Service\\LogElasticAPI.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
